@@ -1,0 +1,4 @@
+aht21@38 {
+	compatible = "aht21";
+	reg = <0x38>;
+};
